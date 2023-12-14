@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href=https://t.me/VitekBush" target="blank">
+  <a href=https://t.me/VitekBush "target="blank">
     <img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  />
   </a>
-  <a href=mailto:vitekb650@gmail.com" target="blank">
+  <a href=mailto:vitekb650@gmail.com "target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"  />
   </a>
 </p>

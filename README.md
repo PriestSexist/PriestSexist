@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hello there, I'm <a target="_blank">Viktor</a> 
+</h1>
+<h3 align="center">Java Developer</h3>
 
-<!--
-**PriestSexist/PriestSexist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📫 Contact me:</h3>
+<p align="center">
+  <a href=https://t.me/VitekBush" target="blank">
+    <img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> 🛠 Stack:</h3>
+<ul align="center">
+  <li>Java</li>
+  <li>Spring(Core, Boot, MVC, Data)</li>
+  <li>SQL(PostgreSQL, Oracle)</li>
+  <li>Docker</li>
+  <li>JUnit</li>
+  <li>Json</li>
+  <li>Mockito</li>
+  <li>Jdbc</li>
+  <li>Hibernate</li>
+  <li>GIT</li>
+  <li>Maven</li>
+</ul>

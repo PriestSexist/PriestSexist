@@ -19,9 +19,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="Junit" width="60" height="40"/> </a> 
-  <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="Hibernate" width="40" height="60"/> </a> 
-  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" width="40" height="60"/> </a>  </p>
+  <a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="Junit" width="80" height="40"/> </a> 
+  <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="Hibernate" width="80" height="40"/> </a> 
+  <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" width="80" height="40"/> </a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priestsexist&show_icons=true&locale=en&layout=compact" alt="priestsexist" /></p>
 

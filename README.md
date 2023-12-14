@@ -23,8 +23,4 @@
   <a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" /> </a> 
   <a href="https://maven.apache.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priestsexist&show_icons=true&locale=en&layout=compact" alt="priestsexist" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priestsexist&show_icons=true&locale=en" alt="priestsexist" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priestsexist&" alt="priestsexist" /></p>
